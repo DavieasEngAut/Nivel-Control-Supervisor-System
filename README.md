@@ -1,5 +1,14 @@
 <h1> This repository show how is maked one system to supervise a tank with a certain liquid. look below at the whole system </h1>
 
+## Softwares do projeto
+
+Este projeto usa os seguintes softwares:
+
+- Supervisorio Visu++: software utilizado para controle em salas de controle.
+- Vijeo Designer: Sistema de programação e criação de telas para controle e supervisãoo em campo de ihm's schneider.
+- Machine Expert Basic: Software para programação e configuração de Clp's schneider.
+- Node Red: Sistema para controle via internet das coisas, seja ela com integração de protocolos tcp/ip ate conexões mqtt.
+
 ## Sistema Supervisorio Visu++
   The first visualization system to be shown is the supervisory system, created with the visu++ software
 
